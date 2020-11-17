@@ -1,0 +1,16 @@
+tmp/
+bin/
+obj/
+*.sdf
+*.suo
+*.opensdf
+*.user
+*.nvuser
+*.orig
+.vscode
+data/.lumix
+data/lumix.log
+data/studio.ini
+.lumixuser
+projects/3rdparty
+plugins/
